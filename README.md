@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
-<h3 align="center">A Small Discord Bots Coder</h3>
+<h3 align="center">A Self-Taught Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-1337&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-1337" /> </p>
 
