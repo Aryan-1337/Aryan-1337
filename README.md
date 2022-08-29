@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Rexom Bot**
 
-- 🌱 I’m currently learning **HTML, CSS, Python**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **aryancodez@proton.me**
 
